@@ -25,7 +25,7 @@ body {
   color: white;
   -webkit-text-stroke-color: gold;
   -webkit-text-stroke-width: .85px;
-  font-size: 17px;
+  font-size: 25px;
 }
 
 .flashy {
@@ -66,10 +66,15 @@ body {
   -webkit-text-stroke-width: 1px;
 }
 
+.button {
+  color: lightblue;
+  font-style:italic;
+}
+
 li {
-  font-size: 17px;
-  -webkit-text-stroke-color: darkgray;
-  -webkit-text-stroke-width: 0.50px;
+  font-size: 25px;
+  -webkit-text-stroke-color: darkviolet;
+  -webkit-text-stroke-width: 0.25px;
   color: white;
 }
 

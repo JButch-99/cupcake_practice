@@ -1,0 +1,81 @@
+h1 {
+  text-align: center;
+  font-size: 55px;
+}
+
+h3 {
+  font-size: 35px;
+  text-decoration-line: underline;
+}
+
+h4 {
+  text-align: center;
+  font-size: 35px;
+  -webkit-text-stroke-color: gray;
+  -webkit-text-stroke-width: .25px;
+}
+
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_x9bWDaR7f9ZahVhzbKTon3PSB4mhHpCJA&s");
+  color: white;
+}
+
+.best {
+  color: white;
+  -webkit-text-stroke-color: gold;
+  -webkit-text-stroke-width: .85px;
+  font-size: 17px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-width: 3px;
+  font-size: 65px;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+  
+    
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  border: 5px double rosybrown;
+}
+
+.slogan {
+  color: red;
+  -webkit-text-stroke-color:salmon;
+  -webkit-text-stroke-width: 2px;
+}
+
+.donut {
+  color: hotpink;
+  -webkit-text-stroke-color: aquamarine;
+  -webkit-text-stroke-width: 1px;
+}
+
+.cupcake {
+  color: aqua;
+  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-width: 1px;
+}
+
+li {
+  font-size: 17px;
+  -webkit-text-stroke-color: darkgray;
+  -webkit-text-stroke-width: 0.50px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
